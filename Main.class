@@ -1,0 +1,6 @@
+nes (5 sloc) 119 Bytes
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Ahmed !!!!");
+    }
+}
